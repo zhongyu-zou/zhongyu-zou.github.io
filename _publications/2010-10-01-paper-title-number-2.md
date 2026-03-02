@@ -1,14 +1,7 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
+title: "Genetic analyses support the contribution of mRNA N6-methyladenosine modification to human disease heritability"
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Nature Genetics'
+paperurl: 'https://www.nature.com/articles/s41588-020-0644-z'
+citation: 'Zijie Zhang*, Kaixuan Luo*, Zhongyu Zou, Maguanyun Qiu, Jiakun Tian, Laura Sieh, Hailing Shi, Yuxin Zou, Gao Wang, Jean Morrison, Allen C Zhu, Min Qiao, Zhongshan Li, Matthew Stephens, Xin He, Chuan He, Genetic analyses support the contribution of mRNA N 6-methyladenosine (m 6 A) modification to human disease heritability. Nature Genetics, 52, 939-949, doi: 10.1038/s41588-020-0644-z (2020)'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
