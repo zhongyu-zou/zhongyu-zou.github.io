@@ -1,7 +1,7 @@
 ---
-title: "Genetic analyses support the contribution of mRNA N6-methyladenosine modification to human disease heritability"
+title: "EGFR/SRC/ERK-stabilized YTHDF2 promotes cholesterol dysregulation and invasive growth of glioblastoma"
 category: manuscripts
-venue: 'Nature Genetics'
-paperurl: 'https://www.nature.com/articles/s41588-020-0644-z'
-citation: 'Zijie Zhang*, Kaixuan Luo*, Zhongyu Zou, Maguanyun Qiu, Jiakun Tian, Laura Sieh, Hailing Shi, Yuxin Zou, Gao Wang, Jean Morrison, Allen C Zhu, Min Qiao, Zhongshan Li, Matthew Stephens, Xin He, Chuan He, Genetic analyses support the contribution of mRNA N 6-methyladenosine (m 6 A) modification to human disease heritability. Nature Genetics, 52, 939-949, doi: 10.1038/s41588-020-0644-z (2020)'
+venue: 'Nature Communications'
+paperurl: 'https://www.nature.com/articles/s41467-020-20379-7'
+citation: 'Runping Fang, Xin Chen, Sicong Zhang, Hui Shi, Youqiong Ye, Hailing Shi, Zhongyu Zou, Peng Li, Qing Guo, Li Ma, Chuan He, Suyun Huang, EGFR/SRC/ERK-stabilized YTHDF2 promotes cholesterol dysregulation and invasive growth of glioblastoma. Nature Communications ,12, 177, doi:10.1038/s41467-020-20379-7 (2021)'
 ---
