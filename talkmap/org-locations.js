@@ -5,9 +5,9 @@ var addressPoints = [
     116.3912972
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Analysis of Transcriptome on the Spatial and Temporal Dimensions<br />Handzhou Conference Center, China; Hangzhou, China",
+    30.2489634,
+    120.2052342
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
