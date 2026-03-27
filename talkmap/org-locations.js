@@ -13,10 +13,5 @@ var addressPoints = [
     "Phase separation into distinct granules dictates functional outcome of YTHDF proteins<br />Cold Spring Harbor-Asia Conference: RNA Modifications and Epitranscriptomics; Suzhou, China",
     31.311123,
     120.6212881
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ]
 ];
