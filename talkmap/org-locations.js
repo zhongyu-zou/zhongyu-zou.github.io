@@ -15,6 +15,11 @@ var addressPoints = [
     -77.4874899
   ],
   [
+    "FMRP phosphorylation modulates neuronal translation through YTHDF1<br />Annual NHGRI Centers of Excellence in Genomic Sciences (CEGS) Meeting; Durham, NC, USA",
+    35.996653,
+    -78.9018053
+  ],
+  [
     "Phase separation into distinct granules dictates functional outcome of YTHDF proteins<br />Cold Spring Harbor-Asia Conference: RNA Modifications and Epitranscriptomics; Suzhou, China",
     31.311123,
     120.6212881
