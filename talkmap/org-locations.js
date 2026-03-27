@@ -10,6 +10,11 @@ var addressPoints = [
     120.2052342
   ],
   [
+    "Equilibrium Between RNP Granules of Different Compositions Dictates the Function of m6A Reader YTHDF1<br />5.\tHoward Hughes Medical Institute meeting: Molecular Biology of the Cell; Ashburn, VA, USA",
+    39.0437192,
+    -77.4874899
+  ],
+  [
     "Phase separation into distinct granules dictates functional outcome of YTHDF proteins<br />Cold Spring Harbor-Asia Conference: RNA Modifications and Epitranscriptomics; Suzhou, China",
     31.311123,
     120.6212881
