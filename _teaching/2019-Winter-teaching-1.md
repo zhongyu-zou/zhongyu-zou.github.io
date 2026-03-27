@@ -3,7 +3,7 @@ title: "Teaching assistant for General Chemistry"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Chicago, Department of Chemistry"
-date: 2018-10-01
+date: 2019-01-01
 location: "Chicago IL, USA"
 ---
 
